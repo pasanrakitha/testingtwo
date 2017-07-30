@@ -1,0 +1,152 @@
+{
+  "Sliders": [
+    {"image": "./images/topJp.jpg"},
+    {"image": "./images/topEp.jpg"},
+    {"image": "./images/topEr.jpg"},
+    {"image": "./images/topCd.jpg"}
+  ],
+  "Tours": [
+    {
+      "Title": "Male",
+      "SubTitle":"Maldives",
+      "Picture": "./images/mdt.jpg",
+      "Description": "Spend your honeymoon in romantic Male.",
+      "Badge1": 87200,
+      "Badge2": 4
+    },
+    {
+      "Title": "Dubai",
+      "SubTitle":"United Arab Emirates",
+      "Picture": "./images/dt.jpg",
+      "Description": "becoming increasingly popular as a long-stay destination, rather than simply a stop-over point.",
+      "Badge1": 85000,
+      "Badge2": 5
+    },
+    {
+      "Title": "Singapore",
+      "SubTitle":"Singapore",
+      "Picture": "./images/sgt.jpg",
+      "Description": "The country you will need to fly over and over again.",
+      "Badge1": 65000,
+      "Badge2": 4
+    },
+    {
+      "Title": "Bali",
+      "SubTitle":"Indonesia",
+      "Picture": "./images/bt.jpg",
+      "Description": "Bali is a living postcard, an Indonesian paradise that feels like a fantansy.",
+      "Badge1": 58000,
+      "Badge2": 4
+    },
+    {
+      "Title": "Bangkok",
+      "SubTitle":"Thailand",
+      "Picture": "./images/bkt.jpg",
+      "Description": "You will not feel tired if you do shopping in Bangkok.",
+      "Badge1": 59000,
+      "Badge2": 5
+    },
+    {
+      "Title": "Manila",
+      "SubTitle":"Philippines",
+      "Picture": "./images/ppt.jpg",
+      "Description": "A city with big scenery and natural playground.",
+      "Badge1": 159000,
+      "Badge2": 5
+    },
+    {
+      "Title": "Kuala Lumpur",
+      "SubTitle":"Malaysia",
+      "Picture": "./images/klt.jpg",
+      "Description": "Do not miss to taste Malaysian street food.",
+      "Badge1": 39000,
+      "Badge2": 4
+    },
+    {
+      "Title": "Hanoi",
+      "SubTitle":"Vietnam",
+      "Picture": "./images/vt.jpg",
+      "Description": "A must visit city in the world.",
+      "Badge1": 99000,
+      "Badge2": 4
+    }
+  ],
+  "Tops": [
+    {
+      "Title": "Japan",
+      "SubTitle":"",
+      "Picture": "./images/topJp.jpg"
+    },
+    {
+      "Title": "Canada",
+      "SubTitle":"",
+      "Picture": "./images/topCd.jpg"
+    },
+    {
+      "Title": "Egypt",
+      "SubTitle":"",
+      "Picture": "./images/topEp.jpg"
+    },
+    {
+      "Title": "Europe",
+      "SubTitle":"",
+      "Picture": "./images/topEr.jpg"
+    }
+  ],
+  "Choices": [
+    {
+      "Icon": "shield",
+      "Choice": "Trust & Safety",
+      "Description": "As our clients rely on us, it’s our job to foster that trust and help them to travel with more confidence. Also our goal is to provide a safe and trusted platform where people can travel hassle free."
+    },
+    {
+      "Icon": "bolt",
+      "Choice": "Fast Booking",
+      "Description": "We provide a quick service to serve our clients better and themselves can feel the process is easy and stress free. All what you need to do is to think of your next holiday destination and everything will happened in an instant."
+    },
+    {
+      "Icon": "certificate",
+      "Choice": "Best Price Guarantee",
+      "Description": "We guarantee you get the lowest price to any destination with us. If you find a better price for the same, we will match the competitor’s price."
+    },
+    {
+      "Icon": "thumbs-up",
+      "Choice": "Quality Service",
+      "Description": "With warm and friendly service you will be taken care of and your journey. Moreover our clients don’t need to visit us as we handled everything from our side to provide you quality service."
+    }
+  ],
+  "Footer": {
+    "Socails": [
+      {
+        "Icon": "facebook",
+        "Name": "Facebook",
+        "ClassName": "fb",
+        "Link": "https://www.facebook.com/premiumway.lk"
+      },
+      {
+        "Icon": "twitter",
+        "Name": "Twitter",
+        "ClassName": "tw",
+        "Link": "https://www.twitter.com"
+      },
+      {
+        "Icon": "google-plus",
+        "Name": "Google Plus",
+        "ClassName": "gp",
+        "Link": "https://www.https://plus.google.com/.com"
+      },
+      {
+        "Icon": "youtube-play",
+        "Name": "youtube",
+        "ClassName": "yt",
+        "Link": "https://www.youtube.com"
+      },
+      {
+        "Icon": "instagram",
+        "Name": "Instagram",
+        "ClassName": "ig",
+        "Link": "https://www.instagram.com"
+      }
+    ]
+  }
+}

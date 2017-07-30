@@ -1,0 +1,29 @@
+{
+  "name": "premiumwaytravels",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://premiumwaytravels.github.io/PremiumwayTravels",
+  "dependencies": {
+    "gh-pages": "^1.0.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-fontawesome": "^1.6.1",
+    "react-responsive-carousel": "^3.1.24",
+    "react-scripts": "1.0.10",
+    "react-slick": "^0.14.11",
+    "slick-carousel": "^1.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
